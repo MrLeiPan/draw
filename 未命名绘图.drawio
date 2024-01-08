@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T06:27:57.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YAgPbVgKtM4q-MXR9b-D" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T06:29:48.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-y6ln8rE34hDbI3ZDm1u" version="22.1.15" type="github">
   <diagram name="第 1 页" id="fF9V_ECrw_38cgFGbWng">
     <mxGraphModel dx="954" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RWJTTKz75SXn64Glkqyh-5" value="X1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="249" y="423" width="33" height="26" as="geometry" />
+          <mxGeometry x="249" y="417" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-10" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="201" y="363" width="136" height="22" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="262" y="327" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-16" value="h0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="31" y="252" width="31" height="26" as="geometry" />
+          <mxGeometry x="14" y="252" width="31" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-17" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="7" y="256" width="136" height="22" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="586" y="185" width="87" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-42" value="Hello" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="243" y="445" width="45" height="26" as="geometry" />
+          <mxGeometry x="243" y="440" width="45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-43" value="man" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570.5" y="440" width="41" height="26" as="geometry" />
@@ -168,6 +168,27 @@
         </mxCell>
         <mxCell id="RWJTTKz75SXn64Glkqyh-56" value="可以小批量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="333" y="372" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-57" value="thank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242" y="460" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-58" value="you" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="458" width="37" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-59" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-14" y="256" width="136" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-60" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;rotation=90;" vertex="1" parent="RWJTTKz75SXn64Glkqyh-59">
+          <mxGeometry x="51" y="-51" width="34" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-61" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;rotation=90;" vertex="1" parent="RWJTTKz75SXn64Glkqyh-59">
+          <mxGeometry x="51" y="-17" width="34" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-62" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" vertex="1" parent="RWJTTKz75SXn64Glkqyh-59">
+          <mxGeometry x="51" y="17" width="34" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RWJTTKz75SXn64Glkqyh-63" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;rotation=90;" vertex="1" parent="RWJTTKz75SXn64Glkqyh-59">
+          <mxGeometry x="51" y="51" width="34" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
