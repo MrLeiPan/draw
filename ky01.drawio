@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T15:42:07.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="6JrEWKzUqjZQwF9Y8LUI" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-02T15:42:17.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="-qu_3eTSse4-mEJpk78J" version="24.5.5" type="github">
   <diagram name="第 1 页" id="GPDYI_AA-DoSzQ6Ff1lN">
     <mxGraphModel dx="737" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="3ehZQ5gAd1MyvWoQ8qpq-15" value="可训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="384" y="431" width="54" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3ehZQ5gAd1MyvWoQ8qpq-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;增加BERT层作用&lt;/h1&gt;&lt;p&gt;优化大模型生成的句子，减少幻觉&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="471" y="420" width="227" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
